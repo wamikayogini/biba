@@ -20,16 +20,19 @@ These are the assets for Grow With HX Screen:
 - assets/images/branding.png
 - assets/images/marketing_wheel.png
 - assets/images/clouds.png
+
 ![image](https://github.com/user-attachments/assets/630bd632-a711-47bc-ad9e-ecc6f9fa8a56)
 3.Fashion Screen
 These are the assets for Fashion Screen:
 - assets/images/background.png
 - assets/images/biba_logo.png
 - assets/images/user.png
+
 ![image](https://github.com/user-attachments/assets/1b7f635f-d51c-4f8f-a5fb-10608bd8f79c)
 4. Home Screen
 These are the assets for:
 - assets/images/black_suit.png
 - assets/images/white_suit.png
+
 ![image](https://github.com/user-attachments/assets/dd74b374-fc7b-4c45-866a-3eeb413a8c26)
 ![image](https://github.com/user-attachments/assets/abd0dfec-4733-4858-8702-58b992508048)
