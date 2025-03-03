@@ -22,6 +22,7 @@ These are the assets for Grow With HX Screen:
 - assets/images/clouds.png
 
 ![image](https://github.com/user-attachments/assets/630bd632-a711-47bc-ad9e-ecc6f9fa8a56)
+
 3.Fashion Screen
 These are the assets for Fashion Screen:
 - assets/images/background.png
@@ -29,6 +30,7 @@ These are the assets for Fashion Screen:
 - assets/images/user.png
 
 ![image](https://github.com/user-attachments/assets/1b7f635f-d51c-4f8f-a5fb-10608bd8f79c)
+
 4. Home Screen
 These are the assets for:
 - assets/images/black_suit.png
