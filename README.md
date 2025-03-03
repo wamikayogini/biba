@@ -32,7 +32,7 @@ These are the assets for Fashion Screen:
 ![image](https://github.com/user-attachments/assets/1b7f635f-d51c-4f8f-a5fb-10608bd8f79c)
 
 4. Home Screen
-These are the assets for:
+These are the assets for Home Screen:
 - assets/images/black_suit.png
 - assets/images/white_suit.png
 
